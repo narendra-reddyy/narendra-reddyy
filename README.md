@@ -22,4 +22,4 @@ Software Engineer working with **Java, Spring Boot and React**, focused on
 
 ### Find me
 
-[LinkedIn]([www.linkedin.com/in/narendra-reddy9]) · [attentionarrow.com](https://attentionarrow.com)
+[LinkedIn]([https://www.linkedin.com/in/narendra-reddy9]) · [attentionarrow.com](https://attentionarrow.com)
